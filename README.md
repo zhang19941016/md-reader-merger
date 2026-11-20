@@ -6,10 +6,17 @@ Windows 上的 Markdown 阅读、编辑与合并工具。可以同时打开多�
 
 ## 下载和安装
 
-**目前尚未开放下载。** Microsoft Store 版本正在准备上架，GitHub Releases 暂无安装包。上架后，打开 [Microsoft Store 产品页](https://apps.microsoft.com/detail/9P6BR4B44BN5)，点 **获取** 或 **安装**。如果商店显示「找不到产品」，请等官网更新发布状态。
+**v2.3.1 已在 Microsoft Store 免费上架。** 打开 [Microsoft Store 下载页](https://apps.microsoft.com/detail/9P6BR4B44BN5)，点 **获取** 或 **安装**。
 
 - 适用系统为 **Windows 10 / 11，64 位（x64）**。
-- GitHub 顶部 **Code → Download ZIP** 下载的是网页文件。安装入口看上面的「下载和安装」。
+- [GitHub Releases](https://github.com/zhang19941016/md-reader-merger/releases) 提供版本说明，Windows 安装请使用上面的商店链接。
+
+## v2.3.1 更新
+
+- 支持简体中文与英文，可在设置里切换语言、选择本机字体。
+- 新增 TXT、Word（DOCX）导入，可作为副本编辑，保留原文件。
+- 支持浮动查找和替换、打印预览，以及可选的自动保存。
+- 本地文档可离线阅读、编辑和合并。需要时可在「帮助 → 检查更新」手动查询。
 
 ## 第一次使用
 
@@ -23,7 +30,7 @@ Windows 上的 Markdown 阅读、编辑与合并工具。可以同时打开多�
 
 ## 更新与反馈
 
-文档在本机处理，公开版检查更新需要联网。遇到更新提示时，先处理未保存的文档，再按提示去 Microsoft Store 更新。
+Microsoft Store 版可通过商店更新。应用内的手动版本检查需要联网。
 
 遇到问题，请发邮件至 [470554287@qq.com](mailto:470554287@qq.com)，说明软件版本、Windows 版本、操作步骤和报错。用可公开的样例复现即可。
 
